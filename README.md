@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/stars/TheTimelessRecall/C-Odyssey?style=flat-square&logo=github&color=FFD700" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/TheTimelessRecall/C-Odyssey?style=flat-square&logo=github&color=9ACD32" alt="GitHub Forks">
   <img src="https://img.shields.io/github/last-commit/TheTimelessRecall/C-Odyssey?style=flat-square&logo=git&logoColor=white" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Programs-43-blue?style=flat-square&logo=c" alt="Program Count">
+  <img src="https://img.shields.io/badge/Programs-44-blue?style=flat-square&logo=c" alt="Program Count">
   <img src="https://img.shields.io/github/license/TheTimelessRecall/C-Odyssey?style=flat-square&color=blueviolet" alt="License">
 </p>
 
@@ -73,6 +73,7 @@ This repository's 43 beginner-friendly programs are its main feature. Each one i
 | 41 | [Find Min in Array](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/find_min_in_array.c)       | `Arrays`, `Loops`, `Comparison`            | 🟢 Easy    |
 | 42 | [Sum of Array Elements](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/sum_of_array_elements.c) | `Arrays`, `Loops`, `Accumulation`          | 🟢 Easy    |
 | 43 | [Sum of N Natural Numbers](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/sum_of_n_natural_numbers.c) | `Loops`, `Accumulation`                  | 🟢 Easy    |
+| 44 | [Number Guessing Game](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/number_guessing_game.c) | `Random Numbers`, `Loops`, `Conditionals` | 🟢 Easy    |
 
 </details>
 
