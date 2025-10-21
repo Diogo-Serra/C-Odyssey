@@ -123,7 +123,7 @@ I used a `Makefile` to keep things simple. No need to type `gcc` manually for ev
 
 ---
 
-## Wanna Level Up?
+## Learning resources
 
 Some resources I actually used and liked:
 
