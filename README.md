@@ -4,7 +4,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="180">
 
-*Just a bunch of C programs I wrote. Perfect if you’re a beginner, self-learner*
+*Just a bunch of C programs I wrote. Perfect if you are learning*
 
 
 </div>
@@ -26,8 +26,6 @@
 - Arrays and strings
 - Math and number manipulation
 - Basic game logic
-
-Each program is self-contained. You can compile it and play around.
 
 ---
 
@@ -132,11 +130,11 @@ Some resources I actually used and liked:
 <details>
 <summary><strong>Expand for learning resources</strong></summary>
 
-### Quick & Simple (Where I started)
+### Quick & simple (Where I started)
 - [**C Programming - GeeksforGeeks**](https://www.geeksforgeeks.org/c-programming-language/)
 - [**Learn-C.org (Interactive)**](https://www.learn-c.org/)
 
-### If You Wanna Get Serious
+### If you wanna get serious
 - [**CS50x: Introduction to Computer Science (Harvard)**](https://cs50.harvard.edu/x/)
 - [**The C Programming Language by K&R (Old school book)**](https://archive.org/details/The_C_Programming_Language_2nd_Edition)
 
