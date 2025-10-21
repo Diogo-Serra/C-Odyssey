@@ -88,7 +88,7 @@
 
 ---
 
-### Tic-Tac-Toe Demo
+## Tic-Tac-Toe Demo
 
 
   <img src="media/tic_tac_toe_demo.gif" alt="Tic-Tac-Toe in action">
