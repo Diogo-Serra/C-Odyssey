@@ -12,9 +12,6 @@
   <a href="https://github.com/TheTimelessRecall/C-Odyssey/actions/workflows/c-build.yml">
     <img src="https://github.com/TheTimelessRecall/C-Odyssey/actions/workflows/c-build.yml/badge.svg" alt="C/C++ CI Status">
   </a>
-  <img src="https://img.shields.io/github/stars/TheTimelessRecall/C-Odyssey?style=flat-square&logo=github&color=FFD700" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/TheTimelessRecall/C-Odyssey?style=flat-square&logo=github&color=9ACD32" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/last-commit/TheTimelessRecall/C-Odyssey?style=flat-square&logo=git&logoColor=white" alt="Last Commit">
   <img src="https://img.shields.io/badge/Programs-48-blue?style=flat-square&logo=c" alt="Program Count">
   <img src="https://img.shields.io/github/license/TheTimelessRecall/C-Odyssey?style=flat-square&color=blueviolet" alt="License">
 </p>
@@ -135,36 +132,19 @@ Some resources I actually used and liked:
 <details>
 <summary><strong>Expand for learning resources</strong></summary>
 
-### Quick & Simple
+### Quick & Simple (Where I started)
 - [**C Programming - GeeksforGeeks**](https://www.geeksforgeeks.org/c-programming-language/)
 - [**Learn-C.org (Interactive)**](https://www.learn-c.org/)
 
 ### Deep Dive
 - [**CS50x: Introduction to Computer Science (Harvard)**](https://cs50.harvard.edu/x/)
-- [**The C Programming Language by K&R (The C Bible)**](https://archive.org/details/The_C_Programming_Language_2nd_Edition)
+- [**The C Programming Language by K&R (Old school book)**](https://archive.org/details/The_C_Programming_Language_2nd_Edition)
 
 ### Practice Platforms
 - [**LeetCode C Problems**](https://leetcode.com/problemset/all/?difficulty=Easy&status=Not%20Started&tags=c)
 - [**HackerRank C Challenges**](https://www.hackerrank.com/domains/c)
 
 </details>
-
----
-
-## Repo Layout
-```bash
-
-📁 C-Odyssey/
-├── 📁 .github/workflows/
-│   └── 📄 c-build.yml
-├── 📁 programs/
-│   ├── 📄 bmi_cal.c
-│   └── ... 
-├── 📄 LICENSE
-├── 📄 Makefile
-└── 📄 README.md
-
-```
 
 ---
 
