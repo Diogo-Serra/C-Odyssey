@@ -76,7 +76,7 @@ This repository's 48 beginner-friendly programs are its main feature. Each one i
 | 44 | [Number Guessing Game](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/number_guessing_game.c) | `Random Numbers`, `Loops`, `Conditionals` | 🟢 Easy    |
 | 45 | [Merge Sort](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/merge_sort.c) | `Divide and Conquer`, `Recursion`, `Sorting Algorithm` | 🟡 Medium |
 | 46 | [Sparse Matrix (Dynamic Storage)](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/sparse-matrix-compression.c) | `Structures`, `Dynamic Memory`, `Sparse Matrix`, `Compression` | 🟠 Hard |
-| 47 | [Swap Two Numbers Using Bitwise XOR](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/programs/swap_bitwise_xor.c) | `Bitwise Operators`, `XOR Logic` | 🟢 Easy |
+| 47 | [Swap Two Numbers Using Bitwise XOR](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/swap_bitwise_xor.c) | `Bitwise Operators`, `XOR Logic` | 🟢 Easy |
 | 48 | [Tic Tac Toe Game](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/programs/tic_tac_toe.c) | `2D Arrays`, `Game Logic`, `Conditionals`, `Loops` | 🟠 Hard |
 
 </details>
