@@ -17,7 +17,7 @@
 </p>
 
 ---
-## What’s Inside
+## Topics I covered
 
 48 small C programs covering stuff like:
 
