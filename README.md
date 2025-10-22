@@ -131,27 +131,6 @@ I used a `Makefile` to keep things simple. No need to type `gcc` manually for ev
 
 ---
 
-## Learning resources
-
-<details>
-<summary><strong>Expand for learning resources</strong></summary>
-
-### Quick & simple (Where I started)
-- [**C Programming - GeeksforGeeks**](https://www.geeksforgeeks.org/c-programming-language/)
-- [**Learn-C.org (Interactive)**](https://www.learn-c.org/)
-
-### If you wanna get serious
-- [**CS50x: Introduction to Computer Science (Harvard)**](https://cs50.harvard.edu/x/)
-- [**The C Programming Language by K&R (Old school book)**](https://archive.org/details/The_C_Programming_Language_2nd_Edition)
-
-### For practicing
-- [**LeetCode C Problems**](https://leetcode.com/problemset/all/?difficulty=Easy&status=Not%20Started&tags=c)
-- [**HackerRank C Challenges**](https://www.hackerrank.com/domains/c)
-
-</details>
-
----
-
 ## Want to Contribute?
 
 * First **fork** the repo.
