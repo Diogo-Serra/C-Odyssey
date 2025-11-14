@@ -13,7 +13,6 @@
     <img src="https://github.com/TheTimelessRecall/C-Odyssey/actions/workflows/c-build.yml/badge.svg" alt="C/C++ CI Status">
   </a>
   <img src="https://img.shields.io/badge/Programs-48-blue?style=flat-square&logo=c" alt="Program Count">
-  <img src="https://img.shields.io/github/license/TheTimelessRecall/C-Odyssey?style=flat-square&color=blueviolet" alt="License">
 </p>
 
 ---
