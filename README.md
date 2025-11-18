@@ -12,7 +12,7 @@
   <a href="https://github.com/TheTimelessRecall/C-Odyssey/actions/workflows/c-build.yml">
     <img src="https://github.com/TheTimelessRecall/C-Odyssey/actions/workflows/c-build.yml/badge.svg" alt="C/C++ CI Status">
   </a>
-  <img src="https://img.shields.io/badge/Programs-48-blue?style=flat-square&logo=c" alt="Program Count">
+  <img src="https://img.shields.io/badge/Programs-49-blue?style=flat-square&logo=c" alt="Program Count">
 </p>
 
 ---
@@ -80,7 +80,7 @@
 | 46 | [Sparse Matrix](programs/sparse-matrix-compression.c)| Structs, dynamic memory, compression | Hard |
 | 47 | [Swap XOR](programs/swap_bitwise_xor.c) | Bitwise ops                        | Easy  |
 | 48 | [Tic Tac Toe](programs/tic_tac_toe.c)  | 2D arrays, game logic               | Hard |
-| 49 | [C atoi](programs/atoi.c)  | Simple C atoi function               | Hard |
+| 49 | [C atoi](programs/atoi.c)  | Pointer traversal, ASCII math, string parsing      | Hard |
 
 
 ---
