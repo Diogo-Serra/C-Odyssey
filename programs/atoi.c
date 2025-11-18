@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int	ft_atoi(const char *s)
 {
 	int	number;
@@ -15,4 +17,9 @@ int	ft_atoi(const char *s)
 	while (*s >= '0' && *s <= '9')
 		number = (number * 10) + (*s++ - '0');
 	return (number * sign);
+}
+
+int main(){
+	printf("%d\n", ft_atoi("  -1234abc"));
+    return 0;
 }
