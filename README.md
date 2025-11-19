@@ -18,13 +18,15 @@
 ---
 ## Topics I covered
 
-48 small C programs covering stuff like:
+50 small C programs covering stuff like:
 
 - Loops and conditionals
 - Functions and recursion
 - Arrays and strings
 - Math and number manipulation
 - Basic game logic
+- Searching and Sorting
+- Dynamic memory and custom utilities
 
 ---
 
