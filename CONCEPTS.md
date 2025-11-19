@@ -1,4 +1,4 @@
-# 🐍 vs 🌊: The Rosetta Stone
+# Python vs C
 
 If you are coming from Python, you are used to the computer doing everything for you.
 
@@ -6,7 +6,6 @@ Here is how your Python habits translate to the C.
 
 ## 1\. Arrays (Lists)
 
-**Python:** "I want a list. If I add more stuff, just make it bigger."
 
 ```python
 # Python
@@ -15,7 +14,6 @@ numbers.append(4)  # Easy.
 print(numbers)     # [1, 2, 3, 4]
 ```
 
-**C:** "You want a list? How much memory?"
 
 ```c
 // C
@@ -37,7 +35,6 @@ free(numbers);
 
 ## 2\. Strings
 
-**Python:** Text is just text. You can add it, slice it, whatever.
 
 ```python
 # Python
@@ -46,7 +43,6 @@ name += "Odyssey"  # Concatenation is automatic
 print(name)        # "C Odyssey"
 ```
 
-**C:** Strings are a lie. They are just arrays of numbers (chars) with a zero at the end.
 
 ```c
 // C
@@ -59,7 +55,6 @@ printf("%s\n", name);
 
 ## 3\. Loops
 
-**Python:** "For every item in the box..."
 
 ```python
 # Python
@@ -67,8 +62,6 @@ items = [10, 20, 30]
 for x in items:
     print(x)
 ```
-
-**C:** "Start at index 0. Is index less than size? Increment index. Fetch memory at index."
 
 ```c
 // C
@@ -82,7 +75,6 @@ for (int i = 0; i < length; i++) {
 
 ## 4\. Memory Management
 
-**Python:** "I'm done with this variable." (Garbage Collector sweeps it away).
 
 ```python
 # Python
@@ -91,7 +83,6 @@ def create_data():
     return data  # Python handles the memory magic
 ```
 
-**C:** "I'm done with this variable." (Memory stays occupied forever until you restart the computer or your RAM fills up).
 
 ```c
 // C
@@ -111,3 +102,5 @@ int* create_data() {
 scores = {"Alice": 90, "Bob": 85}
 print(scores["Alice"])
 ```
+
+**C:** Doesn't exist.
