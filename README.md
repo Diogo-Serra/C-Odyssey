@@ -16,14 +16,15 @@
 </p>
 
 
-## Coming from Python?
-
-Confused why `array.append()` doesn't work?
-Check out the **[Python vs C ](./CONCEPTS.md)** to see how your habits translate to C.
 
 
 
 ## The Roadmap
+
+### [00 Prep Work](./CONCEPTS.md)
+*Coming from Python ? Start here.*
+* Understanding why C doesn't have `append()` or automatic memory.
+* **Read:** [Python Vs C Programing](./CONCEPTS.md)
 
 ### [01 Basics](./01_Basics)
 *The absolute building blocks*
