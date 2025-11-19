@@ -29,7 +29,6 @@
 - Searching and sorting (linear, binary, bubble, merge)
 - Basic game logic (Guess Game, Tic Tac Toe)
 - Dynamic memory and custom utility functions (atoi, itoa, custom calloc/memcpy)
-- Intro to data structures (sparse matrix compression)
 
 ---
 
