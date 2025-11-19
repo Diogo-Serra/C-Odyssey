@@ -26,5 +26,5 @@ jobs:
         # If any file is messy, the build fails immediately.
         find . -name "*.c" -not -path "./.*" | xargs clang-format --dry-run --Werror
 
-    - name: 🏗️ Compile Everything
+    - name:  Compile Everything
       run: make
